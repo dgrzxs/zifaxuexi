@@ -1,0 +1,4 @@
+﻿  test.c
+D:\2024-code\test_5_2\test_5_2\test.c(233,7): warning C4087: “test”: 用“void”参数列表声明
+D:\2024-code\test_5_2\test_5_2\test.c(217): warning C4716: “Sub”: 必须返回一个值
+  test_5_2.vcxproj -> D:\2024-code\test_5_2\Debug\test_5_2.exe
